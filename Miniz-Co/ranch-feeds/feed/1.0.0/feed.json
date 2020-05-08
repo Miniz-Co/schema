@@ -1,0 +1,11 @@
+{
+  "$id": "http://schema.miniz.co/Miniz-Co/ranch-feeds/feed/1.0.0/feed.json",
+  "$version": "1.0.0",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "feed schema",
+  "description": "Main feed schema ",
+  "type": "object",
+  "required": [],
+  "additionalProperties": false,
+  "properties": {}
+}

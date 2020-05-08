@@ -1,0 +1,15 @@
+{
+  "name": "feed",
+  "key": "Miniz-Co/ranch-feeds/feed",
+  "description": "Generated metadata file",
+  "organisation": "Miniz-Co",
+  "versions": {
+    "1.0.0": {
+      "id": "http://schema.miniz.co/Miniz-Co/ranch-feeds/feed/1.0.0/feed.json",
+      "key": "Miniz-Co/ranch-feeds/feed/1.0.0/feed.json",
+      "version": "1.0.0",
+      "shasum": "8c2982a15d6ea7bac8c960c979f6db5348e4fc4b",
+      "released": "2020-05-08T17:04:35.294Z"
+    }
+  }
+}
