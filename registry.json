@@ -1,0 +1,13 @@
+{
+  "id": "Miniz-Co/schema",
+  "organisation": "Miniz-Co",
+  "name": "schema",
+  "url": "http://schema.miniz.co",
+  "backend": {
+    "type": "github",
+    "html_url": "https://github.com/Miniz-Co/schema",
+    "ssh_url": "git@github.com:Miniz-Co/schema.git",
+    "owner": "Miniz-Co",
+    "name": "schema"
+  }
+}
